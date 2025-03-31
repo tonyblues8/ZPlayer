@@ -17,7 +17,7 @@ Zplayer v2.3.36
 <div class="apk_left_title" style="text-align:left;">
  <p class="apk_left_title_nav" style="font-size:22px;">应用简介</p>
  <div class="apk_left_title_info">
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;周视频是一款视听综合类APP，共有评书、X听、B视、影视、音乐相互独立的五大功能模块。每个功能模块都可以单独拿出来成为一个APP，为了良好的用户体验而整合成一个APP。</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Zplayer是一款视听综合类APP，共有评书、X听、B视、影视、音乐相互独立的五大功能模块。每个功能模块都可以单独拿出来成为一个APP，为了良好的用户体验而整合成一个APP。</p>
   <p style="font-size:20px;">&nbsp;&nbsp;&middot;共收录音频作品:1.8千万部(集) / 视频作品:10.8万部</p>
   <p>&nbsp;&nbsp;1:评书，各类传统评书、相声音频</p>
   <p>&nbsp;&nbsp;2:X听，各类有声小说、娱乐、学习、演讲、人文、历史、军事...大量综合类音频，丰富、全面、质高。</p>
