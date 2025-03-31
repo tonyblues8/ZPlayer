@@ -7,6 +7,8 @@
 
 </div>
 
+本人编译及运行环境：mac min M4 MacOS 15.3.2
+
 # Android移动端应用简介
 Zplayer v2.3.36
 <p style="font-size:2.5rem">海量节目收录，您值得拥有！</p><br>
