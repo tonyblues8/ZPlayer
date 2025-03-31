@@ -18,11 +18,11 @@ Zplayer v2.3.36
 
 # Android移动端应用截图
 <div align="center" style="display:inline-block!important">
-<img style="margin:20px;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<span style="margin:20px;"><img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></span>
 
-<img style="margin:20px;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<span style="margin:20px;"><img style="margin:20px;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></span>
 
-<img style="margin:20px;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<span style="margin:20px;"><img style="margin:20px;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></span>
 
 
 [![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg)](#Android移动端应用简介)
