@@ -18,11 +18,11 @@ Zplayer v2.3.36
 
 # Android移动端应用截图
 <div align="center" style="display:inline-block!important">
-<span style="margin:10px;"><img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></span>
+<div style="margin:10px;display:inline;"><img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></div>
 
-<span style="margin:10px;"><img style="margin:20px;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></span>
+<div style="margin:10px;display:inline;"><img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></div>
 
-<span style="margin:10px;"><img style="margin:20px;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></span>
+<div style="margin:10px;display:inline;"><img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg"></div>
 
 
 [![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg)](#Android移动端应用简介)
