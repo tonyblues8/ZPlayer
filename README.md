@@ -37,3 +37,6 @@ Zplayer v2.3.36
   <p><br /></p>
  </div>
 </div>		
+
+# <a href="https://github.com/tonyblues8/ZPlayer/releases">下载编译后的版本</a>
+
