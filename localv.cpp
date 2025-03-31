@@ -56,9 +56,9 @@
 std::string downloadDir = "";
 std::string runDir = "";
 std::string m_videoname = "";
-sql::SQLString user("root");
-sql::SQLString pwd("xiongqian");
-std::string dbhost = "tcp://mv.6deng.cn:3306/web?characterEncoding=utf8mb4&useUnicode=true";
+sql::SQLString user("");
+sql::SQLString pwd("");
+std::string dbhost = "";
 namespace fs = std::filesystem;
 const int m_limit = 15;
 int offsetps = 0;

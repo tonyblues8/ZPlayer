@@ -54,9 +54,9 @@
 
 std::string downloadDir = "";
 std::string runDir = "";
-sql::SQLString user("root");
-sql::SQLString pwd("root");
-std::string dbhost = "tcp://mv.6deng.cn:7306/maccms10?characterEncoding=utf8mb4&useUnicode=true";
+sql::SQLString user("");
+sql::SQLString pwd("");
+std::string dbhost = "";
 std::string m_videoname = "";
 namespace fs = std::filesystem;
 const int m_limit = 15;
