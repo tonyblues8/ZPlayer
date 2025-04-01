@@ -1,3 +1,6 @@
+<style>
+img{border:1px solid #ffff00;-webkit-box-shadow:rgba(0,0,0,1) 3px 5px 10px;-moz-box-shadow:rgba(0,0,0,1) 3 5 10px;box-shadow:rgba(0,0,0,1) 3 5 10px;filter:progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=120,strength=4);filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius=5,MakeShadow=false);border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;transition:All 0.8s ease-in-out;-webkit-transition:All 0.8s ease-in-out;-moz-transition:All 0.8s ease-in-out;-o-transition:All 0.8s ease-in-out;-webkit-user-select:none;-webkit-touch-callout:none;image-rendering:pixelated;image-rendering:crisp-edges;image-rendering:-moz-crisp-edges;image-rendering:-o-crisp-edges;image-rendering:-webkit-optimize-contrast;image-rendering:crisp-edges;-ms-interpolation-mode:nearest-neighbor;object-fit:fill !important;vertical-align:middle;}
+</style>
 # ZPlayer
 
 # MacOS应用截图
@@ -18,11 +21,11 @@ Zplayer v2.3.36
 
 # Android移动端应用截图
 <div align="center" style="display:inline-block!important;">
-<img style="margin:20px; border:5px solid white;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
 
-<img style="margin:20px; border:5px solid white;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
 
-<img style="margin:20px; border:5px solid white;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
 
 
 [![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg)](#Android移动端应用简介)
