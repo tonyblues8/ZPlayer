@@ -116,4 +116,8 @@ Zplayer v2.3.36
 
 将提示已损坏，无法打开的程序图标拖到命令栏中。
 
+[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/jp2.png)](# 解决Mac安装软件提示`已损坏无法打开`,`请移到废纸篓`)
+
+
+
 
