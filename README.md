@@ -110,7 +110,7 @@ Zplayer v2.3.36
 ## <a href="https://github.com/tonyblues8/ZPlayer/releases">下载编译后的版本</a>
 
 
-#解决Mac安装软件提示`已损坏无法打开`,`请移到废纸篓`
+# 解决Mac安装软件提示`已损坏无法打开`,`请移到废纸篓`
 
 在终端中输入xattr -cr ,(这里要注意后面有个空格)。
 
