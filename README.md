@@ -29,10 +29,6 @@ Zplayer v2.3.36
 </a>
 
 <a href="#Android移动端应用简介">
-    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064947.jpg" alt="ZPlayer">
-</a>
-
-<a href="#Android移动端应用简介">
     <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065003.jpg" alt="ZPlayer">
 </a>
 
