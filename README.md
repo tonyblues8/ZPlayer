@@ -19,44 +19,70 @@ Zplayer v2.3.36
 
 # Android移动端应用截图
 <div align="center" style="display:inline-block!important;">
+
 <a href="#Android移动端应用简介">
-    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg" alt="ZPlayer" style="border: 2px solid #fff; margin: 10px;">
-</a>
-<a href="#Android移动端应用简介">
-    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg" alt="ZPlayer" style="border: 2px solid #fff; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg" alt="ZPlayer">
 </a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064852.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064852.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064947.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064947.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065003.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065003.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065118.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065118.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065130.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065130.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065146.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065146.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065242.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065242.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065302.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065302.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065336.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065336.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065431.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065431.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065445.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065445.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065509.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065509.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065551.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065551.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065705.jpg" alt="ZPlayer">
+</a>
 
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065705.jpg)](#Android移动端应用简介)
-
-[![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065720.jpg)](#Android移动端应用简介)
+<a href="#Android移动端应用简介">
+    <img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_065720.jpg" alt="ZPlayer">
+</a>
 
 </div>
 <div class="apk_left_title" style="text-align:left;">
