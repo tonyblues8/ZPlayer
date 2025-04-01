@@ -17,12 +17,12 @@ Zplayer v2.3.36
 <p style="font-size:1.5rem">整合各大音视频站点资源，囊括各类电影大片、欧美剧、日韩剧、泰国剧、各类综艺、评书相声，有声小说、戏剧、音乐、各类学习资料...持续更新。</p><br>
 
 # Android移动端应用截图
-<div align="center" style="display:inline-table!important;">
-<img style="width:50%;height:50%;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<div align="center" style="display:inline-block!important;">
+<img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
 
-<img style="width:50%;height:50%;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
 
-<img style="width:50%;height:50%;" src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
+<img src="https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg">
 
 
 [![ZPlayer](https://raw.githubusercontent.com/tonyblues8/ZPlayer/refs/heads/main/pic/app/Screenshot_20250401_064935.jpg)](#Android移动端应用简介)
