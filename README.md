@@ -9,7 +9,6 @@
 
 </div>
 
-
 # Android移动端应用简介
 Zplayer v2.3.36
 <p style="font-size:2.5rem">海量节目收录，您值得拥有！</p><br>
