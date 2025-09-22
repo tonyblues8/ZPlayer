@@ -64,7 +64,7 @@ void DatabaseConnection::reconnect()
                 sql::Driver* driver = sql::mariadb::get_driver_instance();
                 sql::SQLString user("root");
                 sql::SQLString pwd("xiongqian");
-                conn = std::unique_ptr<sql::Connection>(driver->connect(host,  user, pwd));
+                conn = std::unique_ptr<sql::Connection>(driver->connect(host, user, pwd));
 
             } catch (sql::SQLException& e) {
                 wxString message = wxString::Format(wxString::FromUTF8("数据库连接失败: %s"), e.what());
